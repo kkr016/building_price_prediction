@@ -1,5 +1,14 @@
 # building_price_prediction
-Predict the building of the price using ML models.
+
+Predict the price of the building using important features such as square feet, area, zone, no of rooms, and parking. The data cleaning, EDA and fitting of the ML model was done with 
+
+     ML Model              R^2 value
+
+     Linear Regression     0.895744
+     
+     Random Forest         0.995640
+     
+     XG Boost              0.986226
 
 # ***Conclusion:***
 
