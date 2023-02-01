@@ -1,7 +1,7 @@
 # building_price_prediction
 Predict the building of the price using ML models.
 
-#***Conclusion:***
+# ***Conclusion:***
 
 * Customer can negotiate the price of the building using the data column in the  final data set.
 
